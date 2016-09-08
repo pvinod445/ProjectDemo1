@@ -38,7 +38,7 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         "bearcat",
-        "Vinod Kumar Reddy",
+        "HARSHA",
         "abstraction",
         "ambiguous",
         "arithmetic",
