@@ -85,13 +85,13 @@ final class StaticWordLibrary extends WordLibrary {
         "vertex",
         "unsigned",
         "traditional",
-        "ajayBandi"
+        "Dr.AjayBandi"
     };
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "Bandaru",
         "earbact",
-        "Reddy Vinod Kumar",
+        "harsha",
         "batsartcoin",
         "maibuguos",
         "ratimhteci",
